@@ -16,4 +16,5 @@ The transformer model achieves the following performance:
 
 This demonstrates strong generalization capabilities for arithmetic operations while maintaining high precision on unseen data.
 
-| <img src="imgs/Loss_Acc_Curves.png" alt="Loss Accuracy Graphs" width="100%"> | <img src="imgs/Test_Res.png" alt="Test Results"> |
+<img src="imgs/Loss_Acc_Curves.png" alt="Loss Accuracy Graphs" width="100%"> 
+<img src="imgs/Test_Res.png" alt="Test Results">
